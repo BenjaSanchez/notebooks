@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm stuff
+.idea/
+
+# Binaries
+*.zip
+*.rar
+*.7z
