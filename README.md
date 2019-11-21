@@ -1,2 +1,5 @@
 # notebooks
-jupyter notebooks for poking and prodding
+
+Jupyter notebooks for poking and prodding
+
+See rendered notebooks at https://kyso.io/BenjaSanchez
