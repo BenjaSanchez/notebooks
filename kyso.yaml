@@ -2,4 +2,4 @@ main: notebook.ipynb
 branch: master
 hideRoot: true
 posts:
-  - "*"
+  - "post-*"
