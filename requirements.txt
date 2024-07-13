@@ -18,7 +18,7 @@ et-xmlfile==1.0.1
 future==0.18.3
 gnomic==1.0.1
 grako==3.18.1
-idna==2.8
+idna==3.7
 importlib-metadata==1.1.0
 inspyred==1.0.1
 IProgress==0.4
