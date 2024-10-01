@@ -41,7 +41,7 @@ nbconvert==6.5.1
 nbformat==4.4.0
 networkx==1.9.1
 notebook==6.4.12
-numexpr==2.7.0
+numexpr==2.8.5
 numpy==1.22.0
 openpyxl==3.0.2
 optlang==1.4.4
